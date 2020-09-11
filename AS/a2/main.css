@@ -1,0 +1,8 @@
+
+#sale-table tr:hover{ 
+    cursor:pointer; 
+    background-color: rgb(214, 214, 214);
+}
+#total{
+    font-weight: bold;
+}
